@@ -200,7 +200,7 @@ Meine größte Sorge ist, dass einem meiner Kollegen oder mir etwas zustößt, n
 * Gesprächsthema (Argumentationsmaterial)
 * bringt **Pro** Argumente
 * erklärt **Contra** Argumente
-* IFG Material:**Mustersatzung** informationsfreiheit.org/mustersatzung/* Formular-Vorschlag für den **Bürgerantrag**
+* IFG Material: **Mustersatzung** [informationsfreiheit.org/mustersatzung/](http://informationsfreiheit.org/mustersatzung/) Formular-Vorschlag für den **Bürgerantrag**
 
 Kontakt mit dem **Bündnis Informationsfreiheit für Bayern**
 
