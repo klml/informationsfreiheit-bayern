@@ -37,7 +37,7 @@ als Voraussetzung für politische Partizipation
 
 ---
 
-# Selbstverständniss?
+# Selbstverständnis?
 
  ![](pix/berechtigtesinteresse.png)
 
@@ -58,7 +58,7 @@ Wem nützt Informationsfreiheit
 
 ---
 
-# aktuellen Lage
+# aktuelle Lage
 
  ![](pix/500px-Deutschland_Bundesländer_mit_Informationsfreiheitsgesetzgebung.svg.png)
 
@@ -203,7 +203,5 @@ Meine größte Sorge ist, dass einem meiner Kollegen oder mir etwas zustößt, n
 * IFG Material: **Mustersatzung** [informationsfreiheit.org/mustersatzung/](http://informationsfreiheit.org/mustersatzung/) Formular-Vorschlag für den **Bürgerantrag**
 
 Kontakt mit dem **Bündnis Informationsfreiheit für Bayern**
-
-oder Martin Krauss oder mir (m@klml.de)
 
 [informationsfreiheit.org/aktiv-werden/](http://informationsfreiheit.org/aktiv-werden/)
